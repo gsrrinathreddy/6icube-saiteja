@@ -13,7 +13,7 @@ import Skills from './Components/Pages/Skills';
 
 
 function App() {
-  return (
+  return (   
     <div className="App">
          <BrowserRouter>
       <Navbar/>
